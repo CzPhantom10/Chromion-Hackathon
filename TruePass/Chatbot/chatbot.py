@@ -1,10 +1,4 @@
 #!/usr/bin/env python3
-"""
-TruePass AI Chatbot
-A comprehensive AI assistant for TruePass NFT Marketplace & Blockchain Ticket Validation Platform
-Built with g4f library for intelligent conversation handling
-"""
-
 import g4f
 import json
 import re
